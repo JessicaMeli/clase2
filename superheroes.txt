@@ -5,3 +5,4 @@ Estos son los superhéroes más conocidos:
 - Aquaman
 - IronMan
 - Hulk
+- Thor
