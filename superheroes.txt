@@ -8,3 +8,5 @@ Estos son los superhéroes más conocidos:
 - Thor
 - CapitanAmerica
 - CapitanaMarvel
+- Hawkeye
+_ Green Lantern
