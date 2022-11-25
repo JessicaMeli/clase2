@@ -6,3 +6,5 @@ Estos son los superhéroes más conocidos:
 - IronMan
 - Hulk
 - Thor
+- CapitanAmerica
+- CapitanaMarvel
